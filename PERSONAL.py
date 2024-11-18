@@ -1,1 +1,1 @@
-import RANUX_XD
+import dec_XD
